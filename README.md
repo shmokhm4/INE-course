@@ -1,2 +1,2 @@
 # INE-course
-Data Science Program at the Saudi Digital Academy and INE
+“Data Science program” at Saudi Digital Academy in collaboration with INE 🦾
