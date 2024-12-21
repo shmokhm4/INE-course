@@ -1,25 +1,12 @@
-# First lab in the Decision Trees section: Mushroom Classification: Edible or Non-Edible 🌱🍄
-This project is the first lab in the **Decision Trees** section, where we classify a set of mushrooms into two categories: **edible** and **non-edible**. The classification is performed using a **Decision Tree algorithm**, which is trained on a dataset containing various features of mushrooms, such as cap shape, cap color, gill size, and more. The goal is to predict whether a mushroom is safe to eat or not.
+# Decision Trees Course
 
-The project focuses on:
-- Data preprocessing and feature encoding using `LabelEncoder`.
-- Hyperparameter tuning using `RandomizedSearchCV`.
-- Model training and evaluation using a Decision Tree Classifier.
-- Performance assessment on test data to ensure the model's accuracy.
+## 🔬 Labs:
 
-## Features ✨
-- **Data Preprocessing**: 
-  - Encodes categorical features into numeric values using `LabelEncoder`.
-  - Splits the data into training and testing sets while maintaining class distribution.
-  
-- **Model Tuning**: 
-  - Uses `RandomizedSearchCV` for hyperparameter tuning of the Decision Tree Classifier.
-  - Tests various parameters like `max_depth`, `min_samples_leaf`, and `min_samples_split` to find the best combination.
+- **Mushroom Classification: Edible or Non-Edible 🍄**  
+  In this project, I classify mushrooms into **edible** or **non-edible** categories using a Decision Tree algorithm. I preprocess the data, tune hyperparameters, and train the model to make predictions based on mushroom features.
 
-- **Model Training and Prediction**:
-  - Trains the model on the encoded training data.
-  - Makes predictions on both training and test datasets.
+- **Boston House Prices Regression 🏠**  
+  In this project, I predict the prices of houses in Boston using a custom Machine Learning regression model. I create, tune, and evaluate the model from scratch, applying regression techniques to predict house prices based on various features.
 
-- **Model Evaluation**: 
-  - Calculates baseline accuracy based on the majority class.
-  - Evaluates the model's performance using test data.
+- **Visualizing the Boston Regression Tree 🌳**  
+  In this project, I validate my regression model through different visualizations. I use various strategies to visualize and interpret the Decision Tree, ensuring the model's performance and understanding how it makes predictions.
