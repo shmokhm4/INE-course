@@ -3,7 +3,7 @@
 - Playlist Link (https://docs.google.com/spreadsheets/d/1TuZD3516FwASy2TkuTxwbPxdZn2ab2zGCpqoVqMpUkQ/edit?usp=sharing)
 
 ## Sections
-- Programming 🐍
+- Programming (python)🐍
 - Databases ✨
 - Data Analysis 🪄🗂️
 - Machine Learning 🤖
